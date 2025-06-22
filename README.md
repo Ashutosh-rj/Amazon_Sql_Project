@@ -1,5 +1,5 @@
 # Amazon_Sql_Project
-![shipping_warehouse_image](https://github.com/user-attachments/assets/0f6d0b1a-c42c-4a19-9c6f-b59868f04913)
+![shipping_warehouse_image](https://github.com/Ashutosh-rj/Amazon_Sql_Project/blob/main/stock-vector.jpg)
 
 ---
 
